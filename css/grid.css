@@ -1,0 +1,89 @@
+/****************************************
+basic grid
+****************************************/
+
+.c-flex {
+  display: flex;
+}
+
+.c-col__90 {
+  max-width: 90%;
+  flex-basis: 90%;
+}
+
+.c-col__80 {
+  max-width: 80%;
+  flex-basis: 80%;
+}
+
+.c-col__75 {
+  max-width: 75%;
+  flex-basis: 75%;
+}
+
+.c-col__66 {
+  max-width: 66.666%;
+  flex-basis: 66.666%;
+}
+
+.c-col__50 {
+  max-width: 50%;
+  flex-basis: 50%;
+}
+
+.c-col__33 {
+  max-width: 33.333%;
+  flex-basis: 33.333%;
+}
+
+.c-col__25 {
+  max-width: 25%;
+  flex-basis: 25%;
+}
+
+.c-col__20 {
+  max-width: 20%;
+  flex-basis: 20%;
+}
+
+.c-col__10 {
+  max-width: 10%;
+  flex-basis: 10%;
+}
+
+.c-col--push-90 {
+  margin-left: 90%;
+}
+
+.c-col--push-80 {
+  margin-left: 80%;
+}
+
+.c-col--push-75 {
+  margin-left: 75%;
+}
+
+.c-col--push-66 {
+  margin-left: 66.666%;
+}
+
+.c-col--push-50 {
+  margin-left: 50%;
+}
+
+.c-col--push-33 {
+  margin-left: 33.333%;
+}
+
+.c-col--push-25 {
+  margin-left: 25%;
+}
+
+.c-col--push-20 {
+  margin-left: 20%;
+}
+
+.c-col--push-10 {
+  margin-left: 10%;
+}
+
